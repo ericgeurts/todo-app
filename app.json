@@ -39,6 +39,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "9eb56791-bddd-4d25-b018-cbbeb7033bb4"
+      }
+    },
+    "owner": "fliksemblits"
   }
 }
